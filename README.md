@@ -15,6 +15,9 @@
 
   <img width="1997" height="1183" alt="image" src="https://github.com/user-attachments/assets/b4a3942f-1949-4c21-83e2-f7419748a56a" />
 
+## Techstack
+- Ink! 
+
 ## Limitations
 - Not production ready (extensive testing needed).
 - Developed for usage with mobile app: Bohemia Roots App. Not yet connected (post hacktathon milestone).
